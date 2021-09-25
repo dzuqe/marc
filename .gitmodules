@@ -1,0 +1,6 @@
+[submodule "marc-tx"]
+	path = marc-tx
+	url = git@github.com:dzuqe/marc-tx.git
+[submodule "marc-ui"]
+	path = marc-ui
+	url = git@github.com:dzuqe/marc-ui.git
